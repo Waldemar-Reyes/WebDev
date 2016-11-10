@@ -4,10 +4,10 @@
 # Site settings
 title: Web Dev
 description: |
-  Professional web developers for Professional users
+  Professional web developers for Internet Innovations
 owner: Web Dev # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: leandrorv26@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
