@@ -13,8 +13,8 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
   github: https://github.com/leovazquez1
   linkedin-square: https://pr.linkedin.com/in/leandro-rios-294071115
-  twitter: https://twitter.com/<username>
-  facebook-official: https://facebook.com/<username>
+  #twitter: https://twitter.com/<username>
+  #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
